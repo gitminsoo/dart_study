@@ -9,7 +9,7 @@ class Strong {
 
 class QuickRuner {
   void runQuick() {
-    print('run!');
+    print('ran!');
   }
 }
 
